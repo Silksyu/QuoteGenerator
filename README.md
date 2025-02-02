@@ -1,1 +1,2 @@
-A **random quote generator** that is able to give users a quote from a book. This quote generator utilised **random_word** and **quote** module. Feel free to try it out!
+This project is a **Python-based quote generator** that allows users to retrieve random quotes from books. This quote generator utilised **random_word** and **quote** module. Feel free to try it out! 
+It was inspired by an article on [AskPython](https://www.askpython.com/python-modules/quote-module) and contains modified code originally created by Max Humber (MIT License) and Vaibhav Singh (MIT License)
