@@ -1,4 +1,3 @@
-#%%
 from random_word import RandomWords
 from quote import quote
 import random
